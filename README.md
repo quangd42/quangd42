@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hello there 👋
+
+- 💼 I've worked as a product manager for the last 5 years.
+- 🎚️ I love working on productivity tools and streamlining workflows.
+- 🌱 I’m learning and loving the simplicity and productivity of Go.
+- 🔭 I’m currently looking to transition into a hands-on development role.
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/quangdn42).
 
 <!--
 **quangd42/quangd42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
