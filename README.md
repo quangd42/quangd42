@@ -1,9 +1,8 @@
 ### Hello there 👋
 
 - 💼 I've worked as a product manager for the last 5 years.
-- 🎚️ I love working on productivity tools and streamlining workflows.
-- 🌱 I’m learning and loving the simplicity and productivity of Go.
-- 🔭 I’m currently looking for opportunities to get more hands-on development experience.
+- 🎚️ I love creating productivity tools and streamlining workflows.
+- 🌱 I’m enjoying Go for its simplicity and productivity.
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/quangdn42).
 
 <!--
