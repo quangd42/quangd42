@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 💼 I've worked as a product manager for the last 5 years.
+- 💼 I've worked as a product manager for the last 5 years, and currently pursuing a MD in CS.
 - 🎚️ I love creating productivity tools and streamlining workflows.
-- 🌱 I’m enjoying Go for its simplicity and productivity.
+- 🌱 I’m enjoying Zig as it is a great language to explore and learn low level programming.
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/quangdn42).
 
 <!--
